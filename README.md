@@ -11,11 +11,13 @@
 
 ## 🔍 About me
 
-- 🎓 Ngành: Công nghệ thông tin – Hướng Mạng máy tính & Viễn thông  
-- 🌐 Quan tâm: Packet Switching, 5G / DSS, MEC, IoT, QUIC, MQTT  
-- 🛠 Thích dựng lab: GNS3, VyOS, Cisco, Wireshark, Ubuntu, VirtualBox  
-- 📚 Định hướng: Network Engineer / Cloud & Edge / IoT Developer  
-- 💡 Mục tiêu: Có 1–2 project thực tế để xin thực tập & việc làm
+🎓 Major: Information Technology – Computer Networks & Telecommunications Orientation
+
+🌐 Interests: Packet Switching, 5G / DSS, MEC, IoT, QUIC, MQTT
+
+🛠 Lab Experience: GNS3, VyOS, Cisco, Wireshark, Ubuntu, VirtualBox
+
+📚 Career Direction: Network Engineer / Cloud & Edge / IoT Developer
 
 ---
 
@@ -103,15 +105,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" alt="GitHub"/>
   </a>
 
-  <!-- Facebook -->
-  <a href="https://facebook.com/your-facebook" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" alt="Facebook"/>
-  </a>
-
-  <!-- LinkedIn (nếu có) -->
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/>
-  </a>
 </p>
 
 📬 **Email:** your-email@example.com  
@@ -125,10 +118,3 @@
 </p>
 
 ---
-
-## ✅ To-do
-
-- [ ] Đẩy project IoT (ESP32 + MQTT + Flutter) lên GitHub  
-- [ ] Đẩy project mô phỏng 5G / MEC lên GitHub  
-- [ ] Viết tài liệu README cho từng project (mô tả kiến trúc, flow, tech stack)  
-- [ ] Cập nhật stats & pinned repo sau mỗi kỳ học / mỗi project mới
