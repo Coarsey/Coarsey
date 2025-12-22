@@ -1,39 +1,59 @@
-<h1 align="center">👋 Hi, I'm Hirohito</h1>
+<h1 align="center">👋 Hi, I'm Coarsey</h1>
 <h3 align="center">Networking • IoT • Cybersecurity Student</h3>
 
 ---
 
 ### 🌟 About me
-- 🎓 IT student focusing on **Computer Networking & Security**
-- 🌐 Learning about **packet switching, Linux, routing, firewalls**
-- 🛰 Exploring **IoT (ESP32), QUIC/UDP experiments, VyOS lab**
-- 💡 Interested in **5G, MEC edge computing, cybersecurity**
-- 🔭 Building skills through real projects and lab simulations
+```yaml
+name: Coarsey
+located_in: Hue, Vietnam 🇻🇳
+current_focus: Network Engineering & IoT Development
+journey: Becoming a Professional Network + Security Engineer
 
----
+education:
+  - BSc in Information Technology
+  - Networking, Telecommunications & System Architecture
+  - Self-studying Cybersecurity & Linux Systems  
 
-### ⚙️ Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,python,c,cpp,github,arduino,vscode)]()
+interests:
+  - IoT Systems (ESP32, MQTT, sensors)
+  - Network Design & Packet Switching models
+  - QUIC UDP Data Transmission demo
+  - 5G / MEC + Load Balancing research
+  - Linux administration & routing
 
----
+tools_and_languages:
+  - python
+  - c/c++
+  - linux
+  - flutter
+  - github
+  - arduino
+  - vscode
 
-### 📈 GitHub Stats
-<div align="center">
+current_projects:
+  - QUIC packet switching simulation
+  - ESP32 IoT control + MQTT Broker
+  - VyOS virtual routed network lab
+  - Flutter app integration with IoT
 
-![stats](https://github-readme-stats.vercel.app/api?username=Coarsey&show_icons=true&theme=tokyonight)
+goals_2025:
+  - Build complete IoT → App → Server pipeline
+  - Develop strong Linux network fundamentals
+  - Study CCNA / Network Security baseline
+  - Publish simulation demos on GitHub
+  - Improve English & documentation writing
 
-</div>
+daily_routine:
+  morning: "☕ Linux, network routing concepts"
+  day: "💻 Build & test IoT + networking code"
+  evening: "📚 Read RFC standards & network books"
+  night: "🔧 Hands-on labs & debugging code"
 
----
+principles:
+  - "Learn by building real systems"
+  - "Small steps daily > motivation spikes"
+  - "Solve problems deeply, not quickly"
 
-### 🚀 Featured Interests
-- 🔌 QUIC UDP data transmission demos  
-- 📡 IoT MQTT with ESP32  
-- 🔐 Basic PenTesting & cybersecurity  
-- 🛰 Network design & architecture labs  
-
----
-
-### 📫 Contact
-- 📧 Wechat: wxid_nz1hhr0o3etu22
-
+contact:
+  github: "github.com/Coarsey"
