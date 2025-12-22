@@ -35,5 +35,5 @@
 ---
 
 ### 📫 Contact
-- 📧 Email: your-email@gmail.com
+- 📧 Wechat: wxid_nz1hhr0o3etu22
 
