@@ -5,7 +5,7 @@
 
 ### 🌟 About me
 ```yaml
-name: Coarsey
+name: Nguyen Cong Dat
 located_in: Hue, Vietnam 🇻🇳
 current_focus: Network Engineering & IoT Development
 journey: Becoming a Professional Network + Security Engineer
