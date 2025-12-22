@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Bò cạp animation (typing effect) -->
   <img 
-    src="<img width="452" height="280" alt="image" src="https://github.com/user-attachments/assets/8fc78bdb-ed63-46e2-aba7-7c89e5b437be" />
+    src="https://kienthuc.net.vn/anh-dong-day-ve-loai-ran-chi-nhin-thoi-cung-du-phat-khiep-post455256.html" alt="image" src="https://github.com/user-attachments/assets/8fc78bdb-ed63-46e2-aba7-7c89e5b437be" />
 " 
     alt="Scorpion animation" 
   />
