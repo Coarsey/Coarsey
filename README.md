@@ -1,7 +1,8 @@
 <p align="center">
   <!-- Bò cạp animation (typing effect) -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=🦂+Scorpion+Mode+ON;Networking+%26+IoT+Learner;5G+%2F+DSS+%2F+MEC+Explorer" 
+    src="<img width="452" height="280" alt="image" src="https://github.com/user-attachments/assets/8fc78bdb-ed63-46e2-aba7-7c89e5b437be" />
+" 
     alt="Scorpion animation" 
   />
 </p>
