@@ -1,120 +1,77 @@
-<!-- PROFILE README WITH ANIMATION -->
-
-<!-- Tiêu đề + animation typing -->
-<h1 align="center">Hi 👋, I'm TE</h1>
+<h1 align="center">👋 Hi there, I'm TE!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=IT+Student;Networking+%2F+IoT+%2F+5G;Learning+Edge+Computing+%26+Security;Building+IoT+%2B+Network+Projects" alt="Typing SVG" />
+💻 Networking | IoT | 5G | MEC | Edge Computing  
 </p>
 
 ---
 
-## 🔍 About me
+### 🧰 When I build / research, I rely on:
 
-🎓 Major: Information Technology – Computer Networks & Telecommunications Orientation
-
-🌐 Interests: Packet Switching, 5G / DSS, MEC, IoT, QUIC, MQTT
-
-🛠 Lab Experience: GNS3, VyOS, Cisco, Wireshark, Ubuntu, VirtualBox
-
-📚 Career Direction: Network Engineer / Cloud & Edge / IoT Developer
-
----
-
-## 🛠 Tech Stack
-
-### 🔹 Programming & Scripting
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30" alt="Dart"/>
-</p>
-
-### 🔹 Mobile & Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" alt="Flutter"/>
-</p>
-
-### 🔹 Systems & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" alt="VSCode"/>
-</p>
-
-### 🔹 Networking & IoT
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="30" alt="Cisco"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" alt="Arduino"/>
-</p>
-
-### 🔹 Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GNS3-333?style=for-the-badge&logo=gns3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VyOS-35495E?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Highlight Projects
+### 🛰 About me  
 
-🚀 Một vài idea / project mình đang làm hoặc muốn phát triển:
-
-- 🛰 **5G DSS & MEC TDD Simulator**  
-  Mô phỏng phân bổ tài nguyên UL/DL, PRB, CQI, BSR, rule-based TDD switching.
-
-- 🌐 **Campus Network Design – University & Hospital**  
-  Thiết kế kiến trúc Core – Distribution – Access, VLAN, IP Plan, QoS cho HIS/PACS, Camera, WiFi.
-
-- 📡 **IoT ESP32 + MQTT + Flutter App**  
-  ESP32 gửi dữ liệu sensor về MQTT broker, Flutter app đọc & điều khiển thiết bị.
-
-- ⚡ **QUIC over UDP Demo**  
-  Demo truyền dữ liệu dạng packet switching dùng QUIC/UDP giữa 2 VM và router VyOS.
-
-> 📌 Khi có repo thật, đổi thành link:
-> - [`project-1`](https://github.com/your-username/project-1) – mô tả...
-> - [`project-2`](https://github.com/your-username/project-2) – mô tả...
+- 🎓 BSc in Information Technology – Computer Network & Telecom  
+- 🌐 Research focus: 5G DSS, MEC, Packet Switching, IoT, QUIC  
+- 🛠 Lab builder: GNS3, Cisco, VyOS, Wireshark, Ubuntu  
+- 📚 Career direction: Network Engineer / IoT Developer / Edge Computing  
+- 🔥 Goal: Build real-world projects to apply for internships and jobs  
 
 ---
 
-## 📊 GitHub Stats (Animation)
+### 🚀 Featured Projects
+
+- **5G DSS & TDD Resource Scheduling Simulator**  
+  Real-time PRB, Load-based UL/DL switching.
+
+- **University Campus Network Architecture (Core-Dist-Access)**  
+  VLAN design, IP plan, WiFi, HIS/PACS system integration.
+
+- **IoT ESP32 → MQTT → Flutter App**  
+  Publish/Subscribe sensor control system.
+
+---
+
+### ☕ Buy me a coffee?
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/-Buy_me_a_coffee-F7CA88?style=for-the-badge"/></a>
+</p>
+
+---
+
+### 📊 My GitHub contributions summary
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="425"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="425"/>
+
+---
+
+### 🔗 Social Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-link)  
+
+---
+
+### 🐍 Activity Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <!-- GitHub -->
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" alt="GitHub"/>
-  </a>
-
-</p>
-
-📬 **Email:** your-email@example.com  
-
----
-
-## 🐍 Contribution Snake (Animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
