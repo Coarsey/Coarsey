@@ -23,66 +23,47 @@ learning_style:
   - "Break things in lab, not in production 😄"
   - "Read docs, then try in real lab"
   - "Write everything to GitHub"
-🛠 Tech Stack
-Languages
+## 💻 Tech Stack & Tools
 
-🐍 Python
+### 🛰 Networking & Security
+<div align="center">
 
-⚙️ C / C++
+![Linux Networking](https://img.shields.io/badge/Linux_Networking-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2563EB?style=for-the-badge&logo=cisco&logoColor=white)
+![Routing & Switching](https://img.shields.io/badge/Routing_&_Switching-1D4ED8?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap (Lab)](https://img.shields.io/badge/Nmap_(Lab)-0F766E?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 
-Networking / Security
+</div>
 
-🌐 TCP/IP, subnetting, routing (đang học)
+### 📡 IoT & Edge
+<div align="center">
 
-🔐 Basic firewalls concepts, Wireshark, nmap (lab)
+![ESP32](https://img.shields.io/badge/ESP32-262626?style=for-the-badge&logo=arduino&logoColor=00979D)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-047857?style=for-the-badge&logo=analogdevices&logoColor=white)
+![Virtual Labs](https://img.shields.io/badge/Virtual_Lab-GNS3_%7C_VirtualBox_%7C_VyOS-4B5563?style=for-the-badge)
 
-📡 QUIC / UDP simulation, packet switching demos
+</div>
 
-IoT
+### 🧠 Languages
+<div align="center">
 
-🔌 ESP32 / sensors
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart (Flutter)](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-📡 MQTT publish / subscribe
+</div>
 
-Tools
+### 🧰 Tools & IDEs
+<div align="center">
 
-🐧 Ubuntu / Linux
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/CLI_Terminal-111827?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
-💻 VS Code
-
-🧱 VirtualBox / GNS3 / VyOS
-
-🧾 Git & GitHub
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,python,c,cpp,github,arduino,vscode" /> </p>
-🧪 Current Experiments
-🔌 QUIC UDP demo – mô phỏng truyền dữ liệu kiểu chuyển mạch gói
-
-📡 ESP32 + MQTT Lab – sensor → broker → server / app
-
-🛰 Virtual Network Lab – VyOS, GNS3, routing, capture traffic
-
-🔐 Security basics – thử tool an toàn trong lab, không phá hoại
-
-🗺 2025 Roadmap
-Quý	Mục tiêu
-Q1	Nắm chắc Linux cơ bản, lệnh mạng, Wireshark
-Q2	Hoàn thành 1 project IoT + MQTT + app nhỏ
-Q3	Mô phỏng QUIC / 5G load, viết tài liệu ngắn
-Q4	Ôn kiến thức kiểu CCNA, build portfolio xin việc
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Coarsey&show_icons=true&theme=radical&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coarsey&layout=compact&theme=radical" /> </p>
-💡 Philosophy
-text
-Sao chép mã
-> Learn like a hacker.
-> Build like an engineer.
-> Protect like a defender.
-📫 Contact
-💻 GitHub: github.com/Coarsey
-
-✉️ Email: your-email@example.com <!-- đổi thành email thật của bạn -->
-
-💬 WeChat: wxid_nz1hhr0o3etu22
+</div>
 
