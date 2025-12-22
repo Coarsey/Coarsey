@@ -1,7 +1,11 @@
-<!-- PROFILE README -->
+<!-- PROFILE README WITH ANIMATION -->
 
+<!-- Tiêu đề + animation typing -->
 <h1 align="center">Hi 👋, I'm TE</h1>
-<h3 align="center">IT Student • Networking • IoT • 5G • Edge / MEC</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=IT+Student;Networking+%2F+IoT+%2F+5G;Learning+Edge+Computing+%26+Security;Building+IoT+%2B+Network+Projects" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -70,25 +74,30 @@
   Demo truyền dữ liệu dạng packet switching dùng QUIC/UDP giữa 2 VM và router VyOS.
 
 > 📌 Khi có repo thật, đổi thành link:
-> - `[Project name](https://github.com/your-username/ten-repo) – mô tả...`
+> - [`project-1`](https://github.com/your-username/project-1) – mô tả...
+> - [`project-2`](https://github.com/your-username/project-2) – mô tả...
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Animation)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top languages"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
 ## 🌐 Connect with me
 
-<p>
+<p align="left">
   <!-- GitHub -->
   <a href="https://github.com/your-username" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" alt="GitHub"/>
@@ -109,7 +118,17 @@
 
 ---
 
-## 🐍 Contribution Snake (Optional)
+## 🐍 Contribution Snake (Animation)
 
-```md
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## ✅ To-do
+
+- [ ] Đẩy project IoT (ESP32 + MQTT + Flutter) lên GitHub  
+- [ ] Đẩy project mô phỏng 5G / MEC lên GitHub  
+- [ ] Viết tài liệu README cho từng project (mô tả kiến trúc, flow, tech stack)  
+- [ ] Cập nhật stats & pinned repo sau mỗi kỳ học / mỗi project mới
