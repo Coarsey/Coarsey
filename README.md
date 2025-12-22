@@ -1,59 +1,33 @@
-<h1 align="center">👋 Hi, I'm Coarsey</h1>
-<h3 align="center">Networking • IoT • Cybersecurity Student</h3>
+<h1 align="center">⚡ Coarsey ⚡</h1>
+<h3 align="center">Network • IoT • Cybersecurity (Ethical)</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=echo+%22Hello%2C+world!%22;sudo+apt-get+install+knowledge;ping+127.0.0.1+-t;Decrypting...+Learning...+Improving..." />
+</p>
 
 ---
 
-### 🌟 About me
+## 🧬 About Me
+
 ```yaml
-name: Nguyen Cong Dat
-located_in: Hue, Vietnam 🇻🇳
-current_focus: Network Engineering & IoT Development
-journey: Becoming a Professional Network + Security Engineer
+name: "Coarsey"
+alias: "hacked_by_learning"
+location: "Hue, Vietnam 🇻🇳"
+role: "Networking & IoT Student"
+focus:
+  - Packet Switching Networks
+  - IoT Systems (ESP32 + MQTT)
+  - Linux Networking & Firewalls
+  - Ethical Hacking & Cybersecurity
 
-education:
-  - BSc in Information Technology
-  - Networking, Telecommunications & System Architecture
-  - Self-studying Cybersecurity & Linux Systems  
+systems_i_break_(to_learn):
+  - Virtual labs (GNS3, VirtualBox, VyOS)
+  - Test networks only
+  - My own code & configs
 
-interests:
-  - IoT Systems (ESP32, MQTT, sensors)
-  - Network Design & Packet Switching models
-  - QUIC UDP Data Transmission demo
-  - 5G / MEC + Load Balancing research
-  - Linux administration & routing
-
-tools_and_languages:
-  - python
-  - c/c++
-  - linux
-  - flutter
-  - github
-  - arduino
-  - vscode
-
-current_projects:
-  - QUIC packet switching simulation
-  - ESP32 IoT control + MQTT Broker
-  - VyOS virtual routed network lab
-  - Flutter app integration with IoT
-
-goals_2025:
-  - Build complete IoT → App → Server pipeline
-  - Develop strong Linux network fundamentals
-  - Study CCNA / Network Security baseline
-  - Publish simulation demos on GitHub
-  - Improve English & documentation writing
-
-daily_routine:
-  morning: "☕ Linux, network routing concepts"
-  day: "💻 Build & test IoT + networking code"
-  evening: "📚 Read RFC standards & network books"
-  night: "🔧 Hands-on labs & debugging code"
-
-principles:
-  - "Learn by building real systems"
-  - "Small steps daily > motivation spikes"
-  - "Solve problems deeply, not quickly"
-
-contact:
-  github: "github.com/Coarsey"
+2025_objectives:
+  - Build real IoT → Server → App pipeline
+  - Master Linux CLI & network tools
+  - Start CCNA-level networking knowledge
+  - Practice basic pentest in safe labs
+  - Push more projects to GitHub
