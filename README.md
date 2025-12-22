@@ -1,38 +1,115 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/teagan404/FlowerFalling/main/flowers.gif" width="100%"/>
-</div>
+<!-- PROFILE README -->
 
-<h1 align="center">🌸 Hi, I'm YOUR NAME 🌸</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&lines=🌺Networking+Student;🌼IoT+%7C+ESP32+%7C+MQTT;🌻Python+%7C+Flutter+Dev;🌷Cybersecurity+Learner"/>
-</h3>
-
-<!-- FLOWER BLOOM -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/flower.gif" width="400">
-</div>
+<h1 align="center">Hi 👋, I'm TE</h1>
+<h3 align="center">IT Student • Networking • IoT • 5G • Edge / MEC</h3>
 
 ---
 
-## 🌸 About me
-- 🎓 IT Student – Networking & Security  
-- 🌷 5G Dynamic TDD Research  
-- 🌺 IoT & MQTT projects  
-- 🌼 Building Flutter app for ESP  
-- 🌻 Linux + VyOS + Cisco labbing  
+## 🔍 About me
+
+- 🎓 Ngành: Công nghệ thông tin – Hướng Mạng máy tính & Viễn thông  
+- 🌐 Quan tâm: Packet Switching, 5G / DSS, MEC, IoT, QUIC, MQTT  
+- 🛠 Thích dựng lab: GNS3, VyOS, Cisco, Wireshark, Ubuntu, VirtualBox  
+- 📚 Định hướng: Network Engineer / Cloud & Edge / IoT Developer  
+- 💡 Mục tiêu: Có 1–2 project thực tế để xin thực tập & việc làm
 
 ---
 
-## 🌺 GitHub Stats  
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=rose_pine">
+## 🛠 Tech Stack
+
+### 🔹 Programming & Scripting
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30" alt="Dart"/>
+</p>
+
+### 🔹 Mobile & Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" alt="Flutter"/>
+</p>
+
+### 🔹 Systems & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" alt="VSCode"/>
+</p>
+
+### 🔹 Networking & IoT
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="30" alt="Cisco"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" alt="Arduino"/>
+</p>
+
+### 🔹 Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/teagan404/FlowerFalling/main/flowers.gif" width="100%"/>
-</div>
+## 📂 Highlight Projects
+
+🚀 Một vài idea / project mình đang làm hoặc muốn phát triển:
+
+- 🛰 **5G DSS & MEC TDD Simulator**  
+  Mô phỏng phân bổ tài nguyên UL/DL, PRB, CQI, BSR, rule-based TDD switching.
+
+- 🌐 **Campus Network Design – University & Hospital**  
+  Thiết kế kiến trúc Core – Distribution – Access, VLAN, IP Plan, QoS cho HIS/PACS, Camera, WiFi.
+
+- 📡 **IoT ESP32 + MQTT + Flutter App**  
+  ESP32 gửi dữ liệu sensor về MQTT broker, Flutter app đọc & điều khiển thiết bị.
+
+- ⚡ **QUIC over UDP Demo**  
+  Demo truyền dữ liệu dạng packet switching dùng QUIC/UDP giữa 2 VM và router VyOS.
+
+> 📌 Khi có repo thật, đổi thành link:
+> - `[Project name](https://github.com/your-username/ten-repo) – mô tả...`
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p>
+  <!-- GitHub -->
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" alt="GitHub"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/your-facebook" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" alt="Facebook"/>
+  </a>
+
+  <!-- LinkedIn (nếu có) -->
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/>
+  </a>
+</p>
+
+📬 **Email:** your-email@example.com  
+
+---
+
+## 🐍 Contribution Snake (Optional)
+
+```md
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
