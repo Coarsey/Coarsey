@@ -1,4 +1,12 @@
-<h1 align="center">👋 Hi there, I'm TE!</h1>
+<p align="center">
+  <!-- Bò cạp animation (typing effect) -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=🦂+Scorpion+Mode+ON;Networking+%26+IoT+Learner;5G+%2F+DSS+%2F+MEC+Explorer" 
+    alt="Scorpion animation" 
+  />
+</p>
+
+<h1 align="center">Hi there, I'm TE!</h1>
 
 <p align="center">
 Network Engineering • IoT • MEC • 5G • Edge Computing
@@ -13,7 +21,7 @@ Network Engineering • IoT • MEC • 5G • Edge Computing
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
-  <!-- OPERATING SYSTEMS -->
+  <!-- OS -->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
