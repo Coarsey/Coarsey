@@ -1,8 +1,8 @@
 <h1 align="center">⚡ Coarsey ⚡</h1>
-<h3 align="center">Network • IoT • Cybersecurity (Ethical)</h3>
+<h3 align="center">Networking • IoT • Cybersecurity (Ethical)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=echo+%22Hello%2C+world!%22;sudo+apt-get+install+knowledge;ping+127.0.0.1+-t;Decrypting...+Learning...+Improving..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=echo+%22Hello%2C+world!%22;sudo+apt-get+install+knowledge;ping+127.0.0.1;Learning+Networks+%26+IoT..." />
 </p>
 
 ---
@@ -11,23 +11,15 @@
 
 ```yaml
 name: "Coarsey"
-alias: "hacked_by_learning"
 location: "Hue, Vietnam 🇻🇳"
 role: "Networking & IoT Student"
 focus:
   - Packet Switching Networks
-  - IoT Systems (ESP32 + MQTT)
+  - IoT with ESP32 + MQTT
   - Linux Networking & Firewalls
-  - Ethical Hacking & Cybersecurity
+  - Basic Cybersecurity (ethical)
 
-systems_i_break_(to_learn):
-  - Virtual labs (GNS3, VirtualBox, VyOS)
-  - Test networks only
-  - My own code & configs
-
-2025_objectives:
-  - Build real IoT → Server → App pipeline
-  - Master Linux CLI & network tools
-  - Start CCNA-level networking knowledge
-  - Practice basic pentest in safe labs
-  - Push more projects to GitHub
+learning_style:
+  - "Break things in lab, not in production 😄"
+  - "Read docs, then try in real lab"
+  - "Write everything to GitHub"
