@@ -7,9 +7,3 @@
   </picture>
 </div>
 
----
-
-### 🛠 Tech Stack
-- **OS:** `Linux` (Ubuntu, CentOS, Debian)
-- **Network:** `Cisco Packet Tracer`, `CCNA`, `Routing & Switching`
-- **Tools:** `Bash Script`, `Docker`, `Git`, `SSH`
