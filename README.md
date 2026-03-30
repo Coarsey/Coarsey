@@ -1,4 +1,4 @@
-# 🐧 [Tên của bạn] | System & Network Engineer
+# 🐧 [(昭和天皇] | electric pole climbing technician
 
 <div align="center">
   <picture>
