@@ -1,5 +1,4 @@
 # 🇯🇵 Hirohito: The Shōwa Emperor (1901 – 1989)
-https://nghiencuuquocte.org/wp-content/uploads/2015/05/Hirohito.jpg
 ![Era: Shōwa](https://img.shields.io/badge/Era-Sh%C5%8Dwa-red?style=for-the-badge)
 ![Role: 124th Emperor](https://img.shields.io/badge/Role-124th_Emperor_of_Japan-blue?style=for-the-badge)
 ![Field: Marine Biology](https://img.shields.io/badge/Interest-Marine_Biology-green?style=for-the-badge)
